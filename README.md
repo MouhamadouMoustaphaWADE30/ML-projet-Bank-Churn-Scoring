@@ -2,6 +2,8 @@ Vous êtes Data Scientist au sein de "fortuneo banque", une banque en ligne qui 
 L’entreprise souhaite mettre en oeuvre un outil de “churn scoring” pour calculer la probabilité qu’un client quittela banque, puis classifie le client en ‘churn’ ou pas. Elle souhaite donc développer un algorithme de classificationen s’appuyant sur des sources de données variées (données comportementales, données provenant d'autresinstitutions financières, etc.).
 Objectif : Identifier les clients susceptibles de quitter la banque.
 Impact : Réduire le churn en prenant des mesures préventives ciblées pour retenir les clients à haut risque.
+
+
 Livrables :
 Un notebook de l'analyse exploratoire mis au propre et annoté.
 Le code (ou un notebook) des différents tests de modèles mis au propre, dans lequel vous identifierez clairementle modèle final choisi.
