@@ -8,4 +8,4 @@ pour la compilation
 	- Installer les packages indiqués dans requirements.txt pour la lancer localement
 	   La partie base de données "Historique des predictions" ne marchent cependant que sur la version déployée
 
-	- Lien : https://moustapha353.pythonanywhere.com/
+	https://moustapha353.pythonanywhere.com/
